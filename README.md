@@ -1,7 +1,7 @@
 <h1>
- ⭐️ Project Name Goes here ⭐️
+ ⭐️ APK Runner ⭐️
 </h1>
-Project description goes here.
+Website to run APKs online.
 <br> 
 
 <br>
@@ -13,15 +13,16 @@ Project description goes here.
 
 
 ## Features
-- Insert list of features here
+- Upload APK
+- Run the APK on the website without downloading or doing anything extra
+- iOS users can open the APK on their phones through the website
 
 
 ## Instructions to run
 ```
-$ git clone https://github.com/CodeChefVIT/<Project>
-$ cd <Project>
-$ pip3 install -r requirements.txt
-$ python3 manage.py runserver
+$ git clone https://github.com/CodeChefVIT/APK-Runner
+$ cd APK-Runner
+$ live-server
 ```
 
 ## Contributors
